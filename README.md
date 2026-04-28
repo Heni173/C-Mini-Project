@@ -89,5 +89,26 @@ Virtual function `convert()` enables dynamic behavior
 Handled via base class pointer (`Converter* ptr`)  
 
 ---
+## 💡 LEARNING OUTCOMES
 
-## 📌 SAMPLE OUTPUT
+🧠 Strong understanding of OOP concepts  
+🔢 Number system conversion techniques  
+⚙️ Writing modular and reusable code  
+🛡️ Input validation handling  
+📊 Logical thinking improvement  
+
+---
+
+## 🏁 CONCLUSION
+
+This project demonstrates how C++ and OOP concepts can be used to build a practical and efficient utility program.
+
+It strengthens programming fundamentals and provides a solid base for advanced system design and problem-solving 🚀
+
+---
+
+## 👨‍💻 AUTHOR
+
+**Student ID:** 25CS061  
+**Institution:** CHARUSAT  
+
